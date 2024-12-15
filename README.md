@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on Website Development Projects (HTML, CSS, JavaScript, Python) & will indulge in Ai Open Source Projects as a Goal in Future, soon as possible.
   
 - 📫 How to reach me: 1# Email: muhammadafnanhassan@gmail.com
--                     2# Whatsapp: +92 324 5368371
+                      2# Whatsapp: +92 324 5368371
 - 😄 Pronouns: I appreciate how much you are kind, sensible & creative.
 - ⚡ Fun fact: I was a medical student who turned into a Tech enthusiast later on.
                I am an Otaku 🐰 👾 😉 🐣 I love coding & Debugging 😭😁
