@@ -1,4 +1,4 @@
-- 👋 Hi, I am @afnanhassan2point0
+- 👋 Hi, I am @Afnan {Muhammad Afnan Hassan}
   
 - 👀 I’m interested in Technological advancements to make Humans come closer to each other for conquering the Universe with love, peace and creativity.
 - 🌱 I’m currently learning   [1] Data Science
