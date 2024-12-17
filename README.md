@@ -1,4 +1,4 @@
-- 👋 Hi, I am @Afnan {Muhammad Afnan Hassan}
+- 👋 Hi, I am Muhammad Afnan Hassan (@OtakuTotipotent)
   
 - 👀 I’m interested in Technological advancements to make Humans come closer to each other for conquering the Universe with love, peace and creativity.
 - 🌱 I’m currently learning   [1] Data Science
