@@ -1,4 +1,4 @@
-## 👋 Hi, I am Muhammad Afnan Hassan (@OtakuTotipotent)
+## 👋 Hi, I am Afnan (@OtakuTotipotent)
   
 ## 👀 I’m interested in:
 Technological advancements to make Humans come closer to each other for conquering the Universe with love, peace and creativity.
