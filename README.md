@@ -2,6 +2,7 @@
   
 ## 👀 I’m interested in:
 Technological advancements to make Humans come closer to each other for conquering the Universe with love, peace and creativity.
+I code websites and applications using python & javascript that they name Full-Stack-Development.
 
 ## 👨‍💻 My SKILLS ::
 1) Front End Website Design & Development
