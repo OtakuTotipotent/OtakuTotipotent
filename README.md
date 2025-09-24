@@ -31,10 +31,12 @@ I code websites and applications using python & javascript that they name Full-S
 - Website Development Projects (HTML, CSS, JavaScript, Python)
 - & will indulge in Ai Open Source Projects as a Goal in Future, as soon as possible.
   
-## 📫 How to reach me:
+## 📫 My Contact:
 1# Email:
 OtakuTotipotent@gmail.com
-2# [Facebook/AfnanMuhammad](https://www.facebook.com/share/1A74HszUXR/)
+2# [LinkedIn/Afnan Muhammad](https://pk.linkedin.com/in/otakutotipotent)
+3# [Instagram/Afnan Muhammad](https://www.instagram.com/afnanmuhammad.personal/)
+
 
 ## 😄 Pronouns:
 I appreciate how much you are kind, sensible & creative.
