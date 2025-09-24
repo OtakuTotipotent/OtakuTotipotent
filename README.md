@@ -4,7 +4,7 @@
 Technological advancements to make Humans come closer to each other for conquering the Universe with love, peace and creativity.
 I code websites and applications using python & javascript that they name Full-Stack-Development.
 
-## 👨‍💻 7My SKILLS ::
+## 👨‍💻 My SKILLS ::
 0) Fullstack web apps development (React,Next JS,MongoDB, Express & Node JS,Django, FAST API, JSON, SQLite, MySQL, Design & Cloning tech.)
 1) DSA in C++ & advanced.
 2) Minor work & Basics in Java & C# programming (based on Academics #BSIT(2021-2025))
