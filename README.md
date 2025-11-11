@@ -34,8 +34,8 @@ I code websites and applications using python & javascript that they name Full-S
 ## 📫 My Contact:
 1# Email:
 OtakuTotipotent@gmail.com
-2# [LinkedIn/Afnan Muhammad](https://pk.linkedin.com/in/otakutotipotent)
-3# [Instagram/Afnan Muhammad](https://www.instagram.com/afnanmuhammad.personal/)
+2# [LinkedIn](https://pk.linkedin.com/in/otakutotipotent)
+3# [Twitter](https://x.com/theO_totipotent)
 
 
 ## 😄 Pronouns:
