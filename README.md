@@ -1,4 +1,5 @@
 ## 👋 Hi, I am Afnan (@OtakuTotipotent)
+A software engineer with expertise in Fullstack website development.
   
 ## 👀 I’m highly interested in:
 Technological advancements to make us come closer to each other for conquering the Universe with love, peace and creativity.
