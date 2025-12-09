@@ -22,7 +22,7 @@ I code for websites and tools using Python, TypeScript and Rust programming lang
 - Will indulge in Ai Open Source Projects as a Goal in Future, ASAP.
   
 ## 📫 My Contact:
-1# Email: afnanmuhammad.education@gmail.com
+1# [Email](afnanmuhammad.education@gmail.com)
 2# [LinkedIn](https://pk.linkedin.com/in/otakutotipotent)
 3# [Twitter](https://x.com/theO_totipotent)
 
