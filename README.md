@@ -1,49 +1,37 @@
 ## 👋 Hi, I am Afnan (@OtakuTotipotent)
   
-## 👀 I’m interested in:
-Technological advancements to make Humans come closer to each other for conquering the Universe with love, peace and creativity.
-I code websites and applications using python & javascript that they name Full-Stack-Development.
+## 👀 I’m highly interested in:
+Technological advancements to make us come closer to each other for conquering the Universe with love, peace and creativity.
+I code for websites and tools using Python, TypeScript and Rust programming languages.
 
-## 👨‍💻 My SKILLS ::
-0) Fullstack web apps development (React,Next JS,MongoDB, Express & Node JS,Django, FAST API, JSON, SQLite, MySQL, Design & Cloning tech.)
-1) DSA in C++ & advanced.
-2) Minor work & Basics in Java & C# programming (based on Academics #BSIT(2021-2025))
-3) Git & GitHub
-4) Linux, PowerShell, GitBash
-5) Social Media SEO Basics
-6) Websites SEO advanced
-7) Python Programming (Backend + DS/Ai)
-8) SQL & SQLite database
-9) MongoDB database
-10) Microsoft Access
-11) Microsoft Excel
-12) Microsoft Word & PowerPoint
-13) Prompt Engineering (OpenAi ChatGPT,Google Gemini, MS Copilot,Cursor Ai, Deepseek, Lovable)
-14) Freelancing Terms & Ethics
-
-## 🌱 I’m currently learning:
-[1] Prompt Engineering & Ai Tools                   
-[2] Full-Stack Website Development & Deployment at next levels (Advanced)
-[3] Artificial Intelligence (Integration & Models access)
-[4] Azure, Amazon AWS & more
+## 👨‍💻 Expertise ::
+0) MERN Stack
+1) Django Fullstack
+2) NextJS Fullstack
+3) Data Structures & Algorithms
+4) Basics & minor experience in Java, C#, Kotlin, Flutter and PHP programming (BSIT 2021-2025)
+5) Git, GitHub, Linux, Powershell
+6) Search Engine Optimizations and AI Reference Optimizations (Websites SEO, Bugs fixing, Maintenance & Designing)
+7) SQL & noSQL databases (MongoDB, PostrgreSQL, MySQL, SQLite)
+8) Office Tools (Microsoft Excel, Microsoft Word & PowerPoint, Google Apps)
+9) Prompt Engineering & Tokenization
+10) 
   
-## 💞️ I’m looking to collaborate on:
-- Website Development Projects (HTML, CSS, JavaScript, Python)
-- & will indulge in Ai Open Source Projects as a Goal in Future, as soon as possible.
+## 💞️ I like collaboration:
+- HTML, CSS, JavaScript, Python, TypeScript, Rust.
+- Will indulge in Ai Open Source Projects as a Goal in Future, ASAP.
   
 ## 📫 My Contact:
-1# Email:
-OtakuTotipotent@gmail.com
+1# Email: afnanmuhammad.education@gmail.com
 2# [LinkedIn](https://pk.linkedin.com/in/otakutotipotent)
 3# [Twitter](https://x.com/theO_totipotent)
 
 
-## 😄 Pronouns:
-I appreciate how much you are kind, sensible & creative.
+## 🫂:
+I appreciate kindness, sensibility & creativity.
 
 ## ⚡ Fun fact:
-• I was a medical student who turned into a Tech enthusiast later on.
-• Am Otaku | Totopotent 🐰 👾 😉 🐣
-• I love coding & Development 😭😁
-• I love playing games #codm #GOW #MWF
-• & watching Anime #OnePiece #Naruto #ChainsawMan #DomonSlayer #bleach #DanDaDan and KC-Seriels
+• I was a medical student who turned into a Tech enthusiast later on...
+• Am a nerd! an Otaku, a Totopotent
+• I love coding to design the life, and life is not just limited to organics.
+• I love playing games, watching anime & reading manga/manhua, Y'know!
