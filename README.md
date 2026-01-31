@@ -36,3 +36,9 @@ I appreciate kindness, sensibility & creativity.
 • Am a nerd! an Otaku, a Totopotent
 • I love coding to design the life, and life is not just limited to organics.
 • I love playing games, watching anime & reading manga/manhua, Y'know!
+
+## 📊 Engineering Metrics
+
+![Otaku's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OtakuTotipotent&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtakuTotipotent&layout=compact&theme=tokyonight&hide=html,css)
