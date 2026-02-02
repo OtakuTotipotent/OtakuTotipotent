@@ -55,6 +55,8 @@ Currently a **Fullstack Engineer** specializing in the **Sovereign Stack**. I fo
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OtakuTotipotent&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+![Afnan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OtakuTotipotent&theme=tokyonight&hide_border=true&area=true)
+
 ---
 
 ### 📫 Connect for Collaboration
