@@ -1,44 +1,66 @@
-## 👋 Hi, I am Afnan (@OtakuTotipotent)
-A software engineer with expertise in Fullstack website development.
-  
-## 👀 I’m highly interested in:
-Technological advancements to make us come closer to each other for conquering the Universe with love, peace and creativity.
-I code for websites and tools using Python, TypeScript and Rust programming languages.
+# 🧑‍💻 Afnan Muhammad | Software Architect in Training
 
-## 👨‍💻 Expertise ::
-0) MERN Stack
-1) Django Fullstack
-2) NextJS Fullstack
-3) Data Structures & Algorithms
-4) Basics & minor experience in Java, C#, Kotlin, Flutter and PHP programming (BSIT 2021-2025)
-5) Git, GitHub, Linux, Powershell
-6) Search Engine Optimizations and AI Reference Optimizations (Websites SEO, Bugs fixing, Maintenance & Designing)
-7) SQL & noSQL databases (MongoDB, PostrgreSQL, MySQL, SQLite)
-8) Office Tools (Microsoft Excel, Microsoft Word & PowerPoint, Google Apps)
-9) Prompt Engineering & Tokenization
-10) 
-  
-## 💞️ I like collaboration:
-- HTML, CSS, JavaScript, Python, TypeScript, Rust.
-- Will indulge in Ai Open Source Projects as a Goal in Future, ASAP.
-  
-## 📫 My Contact:
-1# [Email](afnanmuhammad.education@gmail.com)
-2# [LinkedIn](https://pk.linkedin.com/in/otakutotipotent)
-3# [Twitter](https://x.com/theO_totipotent)
+**Building resilient, sovereign systems for the next era of the web.**
 
+Currently a **Fullstack Engineer** specializing in the **Sovereign Stack**. I focus on performance, self-hosting, and architectural integrity. My goal is to transition from building applications to designing high-scale distributed systems.
 
-## 🫂:
-I appreciate kindness, sensibility & creativity.
+---
 
-## ⚡ Fun fact:
-• I was a medical student who turned into a Tech enthusiast later on...
-• Am a nerd! an Otaku, a Totopotent
-• I love coding to design the life, and life is not just limited to organics.
-• I love playing games, watching anime & reading manga/manhua, Y'know!
+### 🛠️ The Sovereign Stack
+*I am mastering a stack that prioritizes developer autonomy and system performance.*
 
-## 📊 Engineering Metrics
+| Layer | Technology | Status |
+| :--- | :--- | :--- |
+| **Languages** | TypeScript, Python, Java | ⚡ Active |
+| **Backend** | Hono, Node.js, Next.js, Django, FastAPI | 🏗️ Building |
+| **Database** | PostgreSQL (Drizzle ORM), MongoDB | 💾 Persistent |
+| **Auth** | Better-Auth, JWT, Websocket | 🔐 Secure |
+| **DevOps** | Docker, Coolify, VPS Management | 🚢 Sovereign |
+| **UI/UX** | React, TanStack, Tailwind CSS, Shadcn/UI | 🎨 Intuitive |
 
-![Otaku's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OtakuTotipotent&show_icons=true&theme=tokyonight&count_private=true)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtakuTotipotent&layout=compact&theme=tokyonight&hide=html,css)
+### 🚀 Featured Systems (Core Projects)
+
+#### [DevHuddle](https://github.com/OtakuTotipotent/DevHuddle) 
+> **Role:** Lead Architect & Developer  
+> **Concept:** A social ecosystem for developers to monetize through AI-driven collaboration.  
+> **Tech:** Django, PostgreSQL, AI Integrations.
+
+#### [Willayer](https://github.com/OtakuTotipotent/Willayer) 
+> **Role:** System Designer  
+> **Concept:** Next-gen content generation and processing engine.  
+> **Tech:** Python (AI/ML), Typescript, Sovereign Hosting.
+
+#### [Note-Nexus](https://github.com/OtakuTotipotent/Note-Nexus) 
+> **Role:** Fullstack Developer  
+> **Concept:** Open-source, high-performance note-taking utility optimized for speed.
+
+---
+
+### 🔍 Epistemophilia & Research
+*I am a completist. If I touch a subject, I aim for mastery.*
+
+- **Currently Researching:** System Design Patterns, Distributed Databases, and Local-First Web Architectures.
+- **Academic Background:** Finalizing BS in Information Technology (2026).
+- **Style:** Fastidious. Inquisitive. Data-driven.
+
+---
+
+### 📊 Engineering Metrics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=OtakuTotipotent&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Afnan's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtakuTotipotent&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OtakuTotipotent&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Connect for Collaboration
+*Seeking remote architectural challenges and high-performance freelance projects.*
+
+[LinkedIn](https://pk.linkedin.com/in/otakutotipotent) • [Portfolio](https://github.com/OtakuTotipotent)
+
+---
+*"The code is the building blocks; the architecture is the soul of the machine."*
