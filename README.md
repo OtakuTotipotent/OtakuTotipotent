@@ -1,4 +1,4 @@
-# 🧑‍💻 Afnan Muhammad | Software Architect in Training
+# 🧑‍💻 Afnan Muhammad | Software Architect
 
 **Building resilient, sovereign systems for the next era of the web.**
 
