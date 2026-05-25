@@ -29,6 +29,11 @@ Currently a **Full-Stack Engineer** specializing in the **Sovereign Stack**. I f
 > **Concept:** A social ecosystem for developers to monetize through AI-driven collaboration.  
 > **Tech:** Django, PostgreSQL, Tailwind CSS, AI Integrations.
 
+#### [CoreClip](https://github.com/OtakuTotipotent/core-clip) 
+> **Role:** Full-Stack Developer  
+> **Concept:** Generate short videos & ads via AI. Save them & use for your own purposes free of cost.  
+> **Tech:** TypeScript, React, Node/Express, Clerk Auth, Prisma, Tailwind CSS, and AI Integrations.
+
 #### [Willayer](https://github.com/OtakuTotipotent/Willayer) 
 > **Role:** Core Developer  
 > **Concept:** Next-gen content generation and cross-platform video processing engine.  
