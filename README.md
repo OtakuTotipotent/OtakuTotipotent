@@ -72,7 +72,7 @@ Currently a **Full-Stack Engineer** specializing in the **Sovereign Stack**. I f
 ### 📫 Connect for Collaboration
 *Seeking remote engineering challenges, code reviews, and high-performance freelance projects.*
 
-[LinkedIn](https://pk.linkedin.com/in/otakutotipotent) • [Portfolio](https://otakutotipotent.github.io/AfnanMuhammad.Portfolio) • [Email](https://mail.google.com/mail/?view=cm&fs=1&to=ototipotent@gmail.com) • [GitHub](https://github.com/OtakuTotipotent/OtakuTotipotent)
+[LinkedIn](www.linkedin.com/in/afnanmuhammad) • [Portfolio](https://otakutotipotent.github.io/AfnanMuhammad.Portfolio) • [Email](https://mail.google.com/mail/?view=cm&fs=1&to=ototipotent@gmail.com) • [GitHub](https://github.com/OtakuTotipotent/OtakuTotipotent)
 
 ---
 *"Code is merely the building block; the architecture is the soul of the machine."*
