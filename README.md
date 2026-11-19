@@ -1,4 +1,4 @@
-# 🧑‍💻 Afnan Muhammad | Full-Stack Software Engineer
+# 🧑‍💻 Afnan Muhammad | Software Engineer
 
 ![AfnanMuhammad](https://komarev.com/ghpvc/?username=OtakuTotipotent&label=Profile%20Views&style=for-the-badge&color=3AAFA9)
 
@@ -13,9 +13,9 @@ Currently a **Full-Stack Engineer** specializing in the **Sovereign Stack**. I f
 
 | Layer | Technology | Status |
 | :--- | :--- | :--- |
-| **Languages** | TypeScript, Python, Java | ⚡ Active |
+| **Languages** | JavaScript, TypeScript, Python | ⚡ Active |
 | **Backend & APIs** | Next.js, Django, FastAPI, Node.js, WebSockets | 🏗️ Building |
-| **Database** | PostgreSQL (Drizzle/Prisma ORM), MongoDB | 💾 Persistent |
+| **Database** | PostgreSQL, MongoDB | 💾 Persistent |
 | **Authentication** | Auth0, Better-Auth, JWT | 🔐 Secure |
 | **DevOps** | Docker, Coolify, Linux VPS Management | 🚢 Sovereign |
 | **UI/UX** | React, TanStack, Tailwind CSS, Shadcn UI | 🎨 Intuitive |
